@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525644069 source:/home/ubuntuacer/Documents/suli/c++/beadando/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
