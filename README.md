@@ -28,3 +28,4 @@ A feladat megoldásához csak a szabványos C++ eszközei használhatóak!
 
 Beadási határidő: 2018. május 13.
 
+http://patakino.web.elte.hu/pny2/beadando.html
