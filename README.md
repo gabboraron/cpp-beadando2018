@@ -12,12 +12,12 @@ Feladat: egy több sorból álló szöveg középre igazítása. A szöveget a s
     dolor sit amet
     
 vagy 
-    Példa Input:
-    ex vix mutat facete
-    has iisque labitur cu, per in quidam
-    bonorum petentium
-
-
+```
+Példa Input:
+ex vix mutat facete
+has iisque labitur cu, per in quidam
+bonorum petentium
+```
     Példa Output:
             ex vix mutat facete
     has iisque labitur cu, per in quidam
